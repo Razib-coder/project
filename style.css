@@ -1,0 +1,33 @@
+
+body{
+	background: #496E81;
+}
+
+
+/* carousel css start*/
+.box{
+	width: 1000px;
+	height: 450px;
+	padding: 5px;
+	margin: 20px auto;
+	box-shadow: 0px 0px 5px green;
+}
+
+.carousel-item img{
+	width: 1000px;
+	height: 440px;
+}
+/* carousel css end*/
+
+/* menubar css start*/
+#img{
+	margin-right: 700px;
+}
+/* menubar css end*/
+
+/* grid system 1 css start*/
+#something{
+	margin-left: 170px;
+	margin-bottom: 25px;
+}
+/* grid system 1 css end*/
